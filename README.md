@@ -5,8 +5,9 @@ Authors: Oliver Mey<sup>1</sup>, Deniz Neufeld<sup>2</sup>
 <sup>2</sup> Cognitive Systems Group, University of Bamberg, Bamberg, Germany  
 
 This repository contains the source code and some notebooks which demonstrate how to use the accompanying code.  
+
 ---
-##Acknowledgements  
+## Acknowledgements  
 This repository includes source code copied and partially edited from:
  - https://github.com/albermax/innvestigate  
  - https://github.com/emanuel-metzenthin/Lime-For-Time
